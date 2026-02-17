@@ -1,1 +1,2 @@
-https://discord.com/oauth2/authorize?client_id=1472951528678756382
+Server: https://discord.com/oauth2/authorize?client_id=1472951528678756382
+User Install: https://discord.com/oauth2/authorize?client_id=1472951528678756382&response_type=code&redirect_uri=https%3A%2F%2Fazurify.cc&integration_type=1&scope=applications.commands+identify

@@ -1,0 +1,35 @@
+Hello users of Valix, welcome to the ToS!
+
+1. Acceptance of Terms
+By adding the Valix bot to your server or installing it to your Discord account (via user installation), you agree to be bound by these Terms of Service. If you do not agree, please remove the bot from your server or authorized apps.
+
+2. Description of Service
+Valix provides tools to fetch and display public Roblox account information, including but not limited to: Recent Average Price (RAP), account age, badges, friends, and statistical counts.
+
+3. Data Usage & Privacy
+Public Data only: Valix only accesses data made public by the Roblox API. We do not "bypass" privacy settings; if an inventory is private, Valix will respect that setting.
+
+Data Storage: Valix does not store personal Discord data or Roblox credentials. Commands are processed in real-time.
+
+Discord/Roblox Terms: Users must also comply with the official Discord Terms of Service and Roblox Terms of Use while using this bot.
+
+4. Prohibited Uses
+You agree not to use Valix for:
+
+Harassment, "doxxing," or targeted bullying of Roblox users.
+
+Attempting to spam or crash the bot’s services.
+
+Using the bot's data for illegal transactions or "black market" activities.
+
+5. Disclaimer of Warranties
+Valix is provided "as is." While we strive for 100% uptime, it is not guarenteed to always be active. We are not responsible for:
+
+API outages from Roblox or Discord.
+
+Inaccuracies in data provided by third-party APIs (like Rolimons or Roblox).
+
+6. Termination
+The developers of Valix reserve the right to block specific users or servers from using the bot if these terms are violated.
+
+Thank you for reading - Valix | Est. 2026

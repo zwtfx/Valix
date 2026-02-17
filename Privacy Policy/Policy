@@ -1,0 +1,38 @@
+Hello users of Valix! This is our bots Privacy Policy:
+
+1. Data We Collect
+Valix is designed to minimize data collection.
+
+User-Provided Data: We collect the Roblox User IDs or Usernames you manually input into commands like /evaluate-id.
+
+Discord Metadata: When you run a command, we temporarily process your Discord User ID and Server ID to deliver the response.
+
+Roblox Data: We fetch public data from the Roblox API (Inventory, RAP, account status, and badges).
+
+2. How We Use Data
+To provide the "Evaluation" service requested by the user.
+
+To troubleshoot bugs or errors in the bot's code.
+
+We do not sell, rent, or trade any user data to third parties.
+
+3. Data Retention
+Command Logs: We may keep temporary logs of command usage (who ran what command and when) for a period of up to 30 days to prevent abuse and spam.
+
+No Persistent Storage: We do not maintain a permanent database of Roblox inventories or Discord user profiles.
+
+4. Data Security
+We use industry-standard practices to ensure your data is handled securely. When hosted (e.g., via Railway), your data is protected by the host's security infrastructure.
+
+5. Third-Party Services
+Valix interacts with the following third-party APIs:
+
+Discord API: For bot functionality and interaction.
+
+Roblox API: To retrieve account and inventory information.
+
+Rolimons API: (If applicable) for item valuation and thumbnails.
+Please consult the respective privacy policies of these services for more information.
+
+6. User Rights & Contact
+If you wish to have your data removed from our temporary logs or have questions regarding this policy, please contact the bot developer via Discord.
